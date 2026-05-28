@@ -26,7 +26,8 @@ A modern, responsive calculator built using **React.js** with advanced features 
 
 ## 📸 Screenshots
 
-(Add your screenshot here)
+<img width="1920" height="1020" alt="calculator" src="https://github.com/user-attachments/assets/a756daf5-780c-4b0d-be97-17765dbbc04d" />
+
 
 ---
 
