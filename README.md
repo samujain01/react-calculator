@@ -42,8 +42,8 @@ npm start
 ---
 
 ## 🌐 Live Demo
+https://react-calculator-neon-tau.vercel.app/ 
 
-(Add Vercel or Netlify link here after deployment)
 
 ---
 
